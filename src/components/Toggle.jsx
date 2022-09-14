@@ -1,7 +1,12 @@
-import React from 'react'
+import React,{useState} from 'react'
+import { Button } from 'react-bootstrap';
 
 export const Toggle=() => {
+  const [isHappy,setisHappy]=useState(true)
+
   return (
-    <div>Todo</div>
+    <div className="text-center mt-3">
+      <Button onClick={() =>setisHappy(!isHappy)}>Are you happy? {isHappy? '😂':'😁'}</Button>
+    </div>
   )
 }

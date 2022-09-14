@@ -6,7 +6,7 @@ import {Counter} from './components/Counter';
 
 function App() {
     return (
-        <div className='container border'>
+        <div className='container border '>
             <h1>Első React App</h1>
             <Counter />
             <Toggle />
