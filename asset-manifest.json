@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iDaniel213/react.git/static/css/main.978a965e.css",
+    "main.js": "/iDaniel213/react.git/static/js/main.42d4cc06.js",
+    "index.html": "/iDaniel213/react.git/index.html",
+    "main.978a965e.css.map": "/iDaniel213/react.git/static/css/main.978a965e.css.map",
+    "main.42d4cc06.js.map": "/iDaniel213/react.git/static/js/main.42d4cc06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978a965e.css",
+    "static/js/main.42d4cc06.js"
+  ]
+}
